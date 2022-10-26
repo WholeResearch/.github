@@ -9,5 +9,10 @@ Promote citizen science. Defend and protect free scientific inquiry. Educate and
 
 <h2>II Values and Vision</h2>
 
+  <h3>Values</h3>
+  <h3>Vission</h3>
 
 <h2>III Pillars, Principles and Practices</h2>
+  <h3>Pillars</h3>
+  <h3>Principles</h3>
+  <h3>Practices</h3>
