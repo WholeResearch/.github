@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 >Welcome</h2>
+<h2 >WELCOME</h2>
 
 Whole Research is an open community to promote independent research and science.
 
