@@ -2,7 +2,7 @@
 
 <h2 >Welcome</h2>
 
-Whole Research is an independent scientific research community. 
+Whole Research is an independent scientific research community to promote citizen science.
 
 <h2>I Mission</h2>
 Promote citizen science. Defend and protect free scientific inquiry. Educate and popularize scientific ideas and methods.<br>Practice honest and trasparent research.
