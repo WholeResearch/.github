@@ -4,9 +4,9 @@
 
 Whole Research is an independent scientific research community. 
 
-<h2>Mission</h2>
+<h2>I Mission</h2>
 
-<h2>Value and Vision</h2>
+<h2>II Values and Vision</h2>
 
 
-<h2>Pillars, Principles and Practices</h2>
+<h2>III Pillars, Principles and Practices</h2>
