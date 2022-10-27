@@ -4,9 +4,5 @@
   <p>Question everything, truth you shall find.</p>
   <a href="https://github.com/WholeResearch/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/WholeResearch/.github">About</a> | <a href="https://github.com/WholeResearch/community">Community</a> | <a href="https://github.com/orgs/WholeResearch/discussions">Discussions</a> | <a href="https://github.com/WholeResearch/community/wiki">Wiki</a>  | 
 
-<h2>Notes</h2>
-<h2>Topics</h2>
-<h2>Projects</h2>
-
 </div>
 
